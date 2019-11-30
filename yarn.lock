@@ -6051,7 +6051,7 @@ gatsby-telemetry@^1.1.40:
     stack-utils "1.0.2"
     uuid "3.3.3"
 
-gatsby-theme-catalyst-core@^0.13.5, gatsby-theme-catalyst-core@^0.13.6:
+gatsby-theme-catalyst-core@^0.13.6:
   version "0.13.6"
   resolved "https://registry.yarnpkg.com/gatsby-theme-catalyst-core/-/gatsby-theme-catalyst-core-0.13.6.tgz#12b9fd5a57bd7ccaea15a157e4a2f405cf4b8145"
   integrity sha512-nzm1hJxBeNMV2N3Z7jG+Ka5Nz7IUVBgZF8nUtLPOlgiSO5Y0Cv/bEYsz0ZRFgiKrXiwhEv1kDzR1NrNn+OULqw==
@@ -6084,26 +6084,12 @@ gatsby-theme-catalyst-core@^0.13.5, gatsby-theme-catalyst-core@^0.13.6:
     remark-slug "^5.1.2"
     theme-ui "^0.2.49"
 
-gatsby-theme-catalyst-footer-basic@^0.0.7:
-  version "0.0.7"
-  resolved "https://registry.yarnpkg.com/gatsby-theme-catalyst-footer-basic/-/gatsby-theme-catalyst-footer-basic-0.0.7.tgz#0c7560a247db25bb630ad549c23beee28a067468"
-  integrity sha512-OnwNic/joDIBmbHiQ7DRd6KmKn/EFGu1O35++Gswyu19+p1jLM8+1tGqBaoTBO9Ph7Un4INcwiTz4x6ya6Vglw==
-  dependencies:
-    gatsby-theme-catalyst-core "^0.13.5"
-
 gatsby-theme-catalyst-footer-basic@^0.0.8:
   version "0.0.8"
   resolved "https://registry.yarnpkg.com/gatsby-theme-catalyst-footer-basic/-/gatsby-theme-catalyst-footer-basic-0.0.8.tgz#42e68bccb8062fbcd483df062f60aae6f96b35b6"
   integrity sha512-ohtyHgHqguN/W7fIm4yh8s9f8d92djJa8xJ7eydLYTwP34zYo039NSO6/i9Egt6eXvOPsGLEjcY6xJXJhaMAXQ==
   dependencies:
     gatsby-theme-catalyst-core "^0.13.6"
-
-gatsby-theme-catalyst-header-basic@^0.0.7:
-  version "0.0.7"
-  resolved "https://registry.yarnpkg.com/gatsby-theme-catalyst-header-basic/-/gatsby-theme-catalyst-header-basic-0.0.7.tgz#09af5b4126a93670bec29ed7511111b69075d968"
-  integrity sha512-6H/HtrMPmpxgh+rKmkoM8aC5JMTcIBkj7TPvlN4x2nIRsPv32J8+7MCFwyDi7IcC5aLyeiGVRArIxvixtH4mvQ==
-  dependencies:
-    gatsby-theme-catalyst-core "^0.13.5"
 
 gatsby-theme-catalyst-header-basic@^0.0.8:
   version "0.0.8"
@@ -6112,7 +6098,7 @@ gatsby-theme-catalyst-header-basic@^0.0.8:
   dependencies:
     gatsby-theme-catalyst-core "^0.13.6"
 
-gatsby-theme-catalyst-writer@^0.1.3:
+gatsby-theme-catalyst-writer@^0.1.4:
   version "0.1.4"
   resolved "https://registry.yarnpkg.com/gatsby-theme-catalyst-writer/-/gatsby-theme-catalyst-writer-0.1.4.tgz#6052826713b3cec4d1a16c53feeed85823d92713"
   integrity sha512-BsBQXHnWmkQ2uNQ0ByVtdIvhap+8a7Ld2wC8s5Jzba9NPvT9TysnyGMbJ2z7+iSZ305TEaVJlnvPuwLqMoC1Hw==
