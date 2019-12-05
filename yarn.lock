@@ -2773,13 +2773,13 @@ browserslist@3.2.8:
     electron-to-chromium "^1.3.47"
 
 browserslist@^4.0.0, browserslist@^4.6.0, browserslist@^4.8.0:
-  version "4.8.0"
-  resolved "https://registry.yarnpkg.com/browserslist/-/browserslist-4.8.0.tgz#6f06b0f974a7cc3a84babc2ccc56493668e3c789"
-  integrity sha512-HYnxc/oLRWvJ3TsGegR0SRL/UDnknGq2s/a8dYYEO+kOQ9m9apKoS5oiathLKZdh/e9uE+/J3j92qPlGD/vTqA==
+  version "4.8.1"
+  resolved "https://registry.yarnpkg.com/browserslist/-/browserslist-4.8.1.tgz#df0f50cc4b3255322fae60ae82a946baae69f8c6"
+  integrity sha512-X/lIDboA5bvFg9SOhHN7OBgHHlaZQWcwTXBLBGgrB8+6Iy1dL0wmUfHRe7OdETRTuD2d6f5JPa7iTEcbVyVf6Q==
   dependencies:
-    caniuse-lite "^1.0.30001012"
-    electron-to-chromium "^1.3.317"
-    node-releases "^1.1.41"
+    caniuse-lite "^1.0.30001015"
+    electron-to-chromium "^1.3.322"
+    node-releases "^1.1.42"
 
 buffer-alloc-unsafe@^1.1.0:
   version "1.1.0"
@@ -3028,7 +3028,7 @@ caniuse-api@^3.0.0:
     lodash.memoize "^4.1.2"
     lodash.uniq "^4.5.0"
 
-caniuse-lite@^1.0.0, caniuse-lite@^1.0.30000844, caniuse-lite@^1.0.30001012:
+caniuse-lite@^1.0.0, caniuse-lite@^1.0.30000844, caniuse-lite@^1.0.30001012, caniuse-lite@^1.0.30001015:
   version "1.0.30001015"
   resolved "https://registry.yarnpkg.com/caniuse-lite/-/caniuse-lite-1.0.30001015.tgz#15a7ddf66aba786a71d99626bc8f2b91c6f0f5f0"
   integrity sha512-/xL2AbW/XWHNu1gnIrO8UitBGoFthcsDgU9VLK1/dpsoxbaD5LscHozKze05R6WLsBvLhqv78dAPozMFQBYLbQ==
@@ -4596,7 +4596,7 @@ ee-first@1.1.1:
   resolved "https://registry.yarnpkg.com/ee-first/-/ee-first-1.1.1.tgz#590c61156b0ae2f4f0255732a158b266bc56b21d"
   integrity sha1-WQxhFWsK4vTwJVcyoViyZrxWsh0=
 
-electron-to-chromium@^1.3.317, electron-to-chromium@^1.3.47:
+electron-to-chromium@^1.3.322, electron-to-chromium@^1.3.47:
   version "1.3.322"
   resolved "https://registry.yarnpkg.com/electron-to-chromium/-/electron-to-chromium-1.3.322.tgz#a6f7e1c79025c2b05838e8e344f6e89eb83213a8"
   integrity sha512-Tc8JQEfGQ1MzfSzI/bTlSr7btJv/FFO7Yh6tanqVmIWOuNCu6/D1MilIEgLtmWqIrsv+o4IjpLAhgMBr/ncNAA==
@@ -6066,10 +6066,10 @@ gatsby-telemetry@^1.1.41:
     stack-utils "1.0.2"
     uuid "3.3.3"
 
-gatsby-theme-catalyst-core@^0.13.7:
-  version "0.13.7"
-  resolved "https://registry.yarnpkg.com/gatsby-theme-catalyst-core/-/gatsby-theme-catalyst-core-0.13.7.tgz#a7862707941735cb4916a3950f0b5c083a1138ac"
-  integrity sha512-z9uI49FUyg4ZyngtBHiDX/IkyQTVfPGT1CqRBal0VoxA0MDGE2XCqiV2CH2OmmuYAaSqjjgKugd2pus6/lDkaQ==
+gatsby-theme-catalyst-core@^0.13.7, gatsby-theme-catalyst-core@^0.13.8:
+  version "0.13.8"
+  resolved "https://registry.yarnpkg.com/gatsby-theme-catalyst-core/-/gatsby-theme-catalyst-core-0.13.8.tgz#5b205b720c45c26662e827cd5820d22abf3e18b0"
+  integrity sha512-aEevTXplLmKUoHXvUAmrivXF6ilppwssz3+z2BolWFGGCpozc0uGB7mfYKP5RH1AxFy02kjBPnQb9UpfoJt7vQ==
   dependencies:
     "@emotion/core" "^10.0.22"
     "@mdx-js/mdx" "^1.5.1"
@@ -6099,12 +6099,26 @@ gatsby-theme-catalyst-core@^0.13.7:
     remark-slug "^5.1.2"
     theme-ui "^0.2.49"
 
+gatsby-theme-catalyst-footer-basic@^0.0.10:
+  version "0.0.10"
+  resolved "https://registry.yarnpkg.com/gatsby-theme-catalyst-footer-basic/-/gatsby-theme-catalyst-footer-basic-0.0.10.tgz#50ddae34351f81881093360faaa770ec55b6455e"
+  integrity sha512-M3LXG2Xuip56qVrpd+WkzIMUpFAkknvDKwxHSDXqo4nLHOzrcYeM4WkdaY0Uuf5nIDsD0kfnjUsxsXz9j65oKg==
+  dependencies:
+    gatsby-theme-catalyst-core "^0.13.8"
+
 gatsby-theme-catalyst-footer-basic@^0.0.9:
   version "0.0.9"
   resolved "https://registry.yarnpkg.com/gatsby-theme-catalyst-footer-basic/-/gatsby-theme-catalyst-footer-basic-0.0.9.tgz#1a67b8caca53027f419ea6dd6754a00b4864fb62"
   integrity sha512-7OiPxEumV4zPVbMrK0JKxg1w5jrPCUszPziKzLrXyI8HNbv9RqEcJUss2uuny9NEBLIuLGe2oBM8JFG2HJlKhg==
   dependencies:
     gatsby-theme-catalyst-core "^0.13.7"
+
+gatsby-theme-catalyst-header-basic@^0.0.10:
+  version "0.0.10"
+  resolved "https://registry.yarnpkg.com/gatsby-theme-catalyst-header-basic/-/gatsby-theme-catalyst-header-basic-0.0.10.tgz#a6c830e46eb1f9982e16b9d40e83d21a4a636121"
+  integrity sha512-kxEGdiiyd8ndKGO9KvKfjp8TRT7p/uDpaea9IFn9PWpWzdGGXDu0yoWX9qoxPUPcQ0h0MTKURMlL029Ontf7NA==
+  dependencies:
+    gatsby-theme-catalyst-core "^0.13.8"
 
 gatsby-theme-catalyst-header-basic@^0.0.9:
   version "0.0.9"
@@ -6114,15 +6128,15 @@ gatsby-theme-catalyst-header-basic@^0.0.9:
     gatsby-theme-catalyst-core "^0.13.7"
 
 gatsby-theme-catalyst-writer@^0.1.5:
-  version "0.1.5"
-  resolved "https://registry.yarnpkg.com/gatsby-theme-catalyst-writer/-/gatsby-theme-catalyst-writer-0.1.5.tgz#201378ad78ac956a1a7cf5c149b3d4c888972010"
-  integrity sha512-r5yun2GkNMZ4q1PazAbX85gM6/CZ5oT6+nNl2vEI4Kvgws4/qaeqsYsvpFw6YM2ZPD1z8LjxFgM/YF3+XhQcHQ==
+  version "0.1.6"
+  resolved "https://registry.yarnpkg.com/gatsby-theme-catalyst-writer/-/gatsby-theme-catalyst-writer-0.1.6.tgz#27d898c1bf4f11f85aa9b9a136eeab1b2b8d3e82"
+  integrity sha512-b1iVhtWDL+zzTn9Aj8xPQEdAIgCTtqSd+cbLmZrv9ELGnJbKoIV16WX5CSvCG8AlhBku0SEZimSsA15xJQlZCg==
   dependencies:
     "@sanity/block-content-to-react" "^2.0.7"
     gatsby-source-sanity "^5.0.4"
-    gatsby-theme-catalyst-core "^0.13.7"
-    gatsby-theme-catalyst-footer-basic "^0.0.9"
-    gatsby-theme-catalyst-header-basic "^0.0.9"
+    gatsby-theme-catalyst-core "^0.13.8"
+    gatsby-theme-catalyst-footer-basic "^0.0.10"
+    gatsby-theme-catalyst-header-basic "^0.0.10"
 
 gatsby-transformer-sharp@^2.3.6:
   version "2.3.6"
@@ -9266,7 +9280,7 @@ node-pre-gyp@^0.12.0:
     semver "^5.3.0"
     tar "^4"
 
-node-releases@^1.1.41:
+node-releases@^1.1.42:
   version "1.1.42"
   resolved "https://registry.yarnpkg.com/node-releases/-/node-releases-1.1.42.tgz#a999f6a62f8746981f6da90627a8d2fc090bbad7"
   integrity sha512-OQ/ESmUqGawI2PRX+XIRao44qWYBBfN54ImQYdWVTQqUckuejOg76ysSqDBK8NG3zwySRVnX36JwDQ6x+9GxzA==
@@ -11932,9 +11946,9 @@ shallowequal@^1.0.1, shallowequal@^1.1.0:
   integrity sha512-y0m1JoUZSlPAjXVtPPW70aZWfIL/dSP7AFkRnniLCrK/8MDKog3TySTBmckD+RObVxH0v4Tox67+F14PdED2oQ==
 
 sharp@^0.23.3:
-  version "0.23.3"
-  resolved "https://registry.yarnpkg.com/sharp/-/sharp-0.23.3.tgz#549770a4c671b9bd221f00639452a3eb803a0ed1"
-  integrity sha512-pjT4zyviQteXMC1Z8USIiSwQFQbZTlU5J59/UoygE25hh+sSb7PSYI/MZ2MCB1COtxWQuoUAaG3TYIOLon26Mg==
+  version "0.23.4"
+  resolved "https://registry.yarnpkg.com/sharp/-/sharp-0.23.4.tgz#ca36067cb6ff7067fa6c77b01651cb9a890f8eb3"
+  integrity sha512-fJMagt6cT0UDy9XCsgyLi0eiwWWhQRxbwGmqQT6sY8Av4s0SVsT/deg8fobBQCTDU5iXRgz0rAeXoE2LBZ8g+Q==
   dependencies:
     color "^3.1.2"
     detect-libc "^1.0.3"
