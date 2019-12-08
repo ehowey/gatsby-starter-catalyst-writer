@@ -6106,19 +6106,19 @@ gatsby-theme-catalyst-core@^0.15.0:
     theme-ui "^0.2.49"
 
 gatsby-theme-catalyst-footer-basic@^0.2.0:
-  version "0.2.0"
-  resolved "https://registry.yarnpkg.com/gatsby-theme-catalyst-footer-basic/-/gatsby-theme-catalyst-footer-basic-0.2.0.tgz#02b4b04d8c0412a5f546b767eff23324454f89a2"
-  integrity sha512-tXT81xp3Hqlfl807JlvA6Z36GSkoXYSvcEktu3UTK7WXH9NsFgIhagT/dpO7ZpEtZRSVP1JogJ8yl2RcQ78sYg==
+  version "0.2.1"
+  resolved "https://registry.yarnpkg.com/gatsby-theme-catalyst-footer-basic/-/gatsby-theme-catalyst-footer-basic-0.2.1.tgz#49db005b8c3865c4eeaf017f2d9b6b73796fcde5"
+  integrity sha512-Kbm1EBVALXxXEo5eSwlvcCryBH4rA9aeYc4Gn2yDU46SIjojwIe+orCIlfOKtZ0BEyu2Ti+SI7ArEI1HtDcNkg==
 
 gatsby-theme-catalyst-header-basic@^0.2.0:
-  version "0.2.0"
-  resolved "https://registry.yarnpkg.com/gatsby-theme-catalyst-header-basic/-/gatsby-theme-catalyst-header-basic-0.2.0.tgz#43bfd50cfbc5a4e75f2e67c71e4480f839f723bb"
-  integrity sha512-lJRJLP6sn0OD27owx28vsIxsGCygqXeP25NEiAH8eFc/NXVavduJyz+3F2bKcSSFqIXNf1540PY8+JEUKk+PQQ==
+  version "0.2.1"
+  resolved "https://registry.yarnpkg.com/gatsby-theme-catalyst-header-basic/-/gatsby-theme-catalyst-header-basic-0.2.1.tgz#b9713a0c88f9ae0a861a000c016532c713e16536"
+  integrity sha512-AXSY+r0Pjr1cHjmTwv5dYbz20702athBDnVtNl7u9osqa7wBM5byaAtepYjclkUTg2jV6h02/wenbOA4o86eWw==
 
 gatsby-theme-catalyst-writer@^0.3.0:
-  version "0.3.0"
-  resolved "https://registry.yarnpkg.com/gatsby-theme-catalyst-writer/-/gatsby-theme-catalyst-writer-0.3.0.tgz#63819cef43721e3b455aa5b159070956b160bf96"
-  integrity sha512-MlNZRwFnDrl6kYPas6GCKEDiJfuE3Px79pThzwXRWbNNplASt1Q3kAfBVH+6xodfa06sfiektQ26juiliIe2TQ==
+  version "0.3.1"
+  resolved "https://registry.yarnpkg.com/gatsby-theme-catalyst-writer/-/gatsby-theme-catalyst-writer-0.3.1.tgz#0fa6ca8666dd0822f941e3676ba8c833d152e7ad"
+  integrity sha512-UwCrRTXu9Uj6Hl9zubjwYhHCIb2ggyexH7YkRw6ZxkaKvo/D8CjRrKq0bojBJQHEcDsPHgLNTFCsuDwkRqR0sA==
   dependencies:
     "@sanity/block-content-to-react" "^2.0.7"
     gatsby-source-sanity "^5.0.4"
