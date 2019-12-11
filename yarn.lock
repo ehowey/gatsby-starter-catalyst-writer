@@ -1567,9 +1567,9 @@
   integrity sha1-fyrX7FX5FEgvybHsS7GuYCjUYGY=
 
 "@types/node@*":
-  version "12.12.16"
-  resolved "https://registry.yarnpkg.com/@types/node/-/node-12.12.16.tgz#3ebcbd7bf978fa4c5120fee8be57083271a8b3ac"
-  integrity sha512-vRuMyoOr5yfNf8QWxXegOjeyjpWJxFePzHzmBOIzDIzo+rSqF94RW0PkS6y4T2+VjAWLXHWrfbIJY3E3aS7lUw==
+  version "12.12.17"
+  resolved "https://registry.yarnpkg.com/@types/node/-/node-12.12.17.tgz#191b71e7f4c325ee0fb23bc4a996477d92b8c39b"
+  integrity sha512-Is+l3mcHvs47sKy+afn2O1rV4ldZFU7W8101cNlOd+MRbjM4Onida8jSZnJdTe/0Pcf25g9BNIUsuugmE6puHA==
 
 "@types/node@^7.0.11":
   version "7.10.9"
@@ -6126,9 +6126,9 @@ gatsby-theme-catalyst-header-basic@^0.2.2:
   integrity sha512-KcO1lT5OTE6fJQlZATYrU6pwGlOI0DU95vGDNMAmaajbCqZK4G7Ee4nYpeO6CxBXCGLNyD4Zx6r0MJ8JeLM7BQ==
 
 gatsby-theme-catalyst-writer@^0.3.2:
-  version "0.3.2"
-  resolved "https://registry.yarnpkg.com/gatsby-theme-catalyst-writer/-/gatsby-theme-catalyst-writer-0.3.2.tgz#63c6bc71792ab7d72bc059f8a3d8870822369ed1"
-  integrity sha512-wymnwHHignPklZfwM1pJEkCrBb+hzq77GJsVZViS1aVewXtXsjpDZMwi3hBPWcvSdW7xgypBeLsIVMrXORIcdw==
+  version "0.3.3"
+  resolved "https://registry.yarnpkg.com/gatsby-theme-catalyst-writer/-/gatsby-theme-catalyst-writer-0.3.3.tgz#b99ba3dfcf588c3aecddfffe130c04eb8644d4e0"
+  integrity sha512-gAfKy2O8fcc1aD7+EWHQIN0FH7ytP/pPlpzcn2wHedvBcVC+epCq2P3iwxSYQ8kgDFAFlb5vE0dFiGpCte2Evg==
   dependencies:
     "@sanity/block-content-to-react" "^2.0.7"
     gatsby-source-sanity "^5.0.4"
