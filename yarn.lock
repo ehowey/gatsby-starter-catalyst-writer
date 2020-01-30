@@ -6261,9 +6261,9 @@ gatsby-theme-catalyst-header-top@^0.2.0:
   integrity sha512-0j4G7tdzsJRtjTlVaX1Kdl4W/MLzHReAfZKCCpfHbjT3rmunOUeQEs+x/157rtgwGHaa8KLMJrs/l/xu0wYNww==
 
 gatsby-theme-catalyst-writer@^0.7.0:
-  version "0.7.0"
-  resolved "https://registry.yarnpkg.com/gatsby-theme-catalyst-writer/-/gatsby-theme-catalyst-writer-0.7.0.tgz#9bb46c549180991136c3d6b4c00941d8a09f3725"
-  integrity sha512-eSk2DwtZf3EGZdTw33yAqYlqYxmyhkmi+rr4Nxljugtm77DB0wnk6dT7BrFpFPmYVmTmHSHC+6eJAfEqOdQG/w==
+  version "0.7.1"
+  resolved "https://registry.yarnpkg.com/gatsby-theme-catalyst-writer/-/gatsby-theme-catalyst-writer-0.7.1.tgz#b408d5dcd6dae6edb39c9e1b675f8223b8785501"
+  integrity sha512-FGoGXbhN6ZdMJXR30YlHC0sFwI/MM7bydi9LRxN7e4IlhWO5A5UK32LhCLEECMtdlTf+0e+CcCnxHgeCztTTSw==
   dependencies:
     "@sanity/block-content-to-react" "^2.0.7"
     gatsby-source-sanity "^5.0.5"
