@@ -6180,7 +6180,7 @@ gatsby-telemetry@^1.1.49:
     stack-utils "1.0.2"
     uuid "3.3.3"
 
-gatsby-theme-catalyst-core@^0.24.2:
+gatsby-theme-catalyst-core@^0.24.3:
   version "0.24.3"
   resolved "https://registry.yarnpkg.com/gatsby-theme-catalyst-core/-/gatsby-theme-catalyst-core-0.24.3.tgz#dd8447f7cc054e3d855e51a247ca1fef658950f9"
   integrity sha512-zIUdGnP93vHQDNfg88qXqwxnI9J2Ybzff10ybBmkvhCa8ih4rnxmZ7brFaet9O8KyiFTqsfFrFmfitrqiSqU7w==
@@ -6221,7 +6221,7 @@ gatsby-theme-catalyst-footer@^0.2.2:
   resolved "https://registry.yarnpkg.com/gatsby-theme-catalyst-footer/-/gatsby-theme-catalyst-footer-0.2.2.tgz#dd715b6c29777ac60517b30959712b0630d48673"
   integrity sha512-CJ1ECmkT5kzNFCSIb1cPj1jJjga3JBPsyMOMq9JMpitVgrwEsBATMbVMv6QvjT8FJhV96pKDxkX4K1R2JvDc7Q==
 
-gatsby-theme-catalyst-header-top@^0.3.1:
+gatsby-theme-catalyst-header-top@^0.3.2:
   version "0.3.2"
   resolved "https://registry.yarnpkg.com/gatsby-theme-catalyst-header-top/-/gatsby-theme-catalyst-header-top-0.3.2.tgz#d678cc71f9643fab51caf9a94c22b88bb34ffb07"
   integrity sha512-FuBhJ5pqLdfbSz9ksEu7HwgpMMlNdq8A0k983wYsQhUwYY6jvP/Nu6QzQ/dJmuXEryis5BUo7E+YX6hGVWvNnQ==
